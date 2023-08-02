@@ -84,5 +84,5 @@ node_sockstat_RAW_inuse 0
 
 
   # for metricsLine in parseMetrics(readFile("/tmp/stats")):
-  for metricsLine in parseMetrics(,):
+  for metricsLine in parseMetrics(t):
     echo metricsLine

@@ -2,7 +2,7 @@
 
 version       = "0.1.0"
 author        = "David Krause (enthus1ast)"
-description   = "Prometeus node exporter parser, for Nim"
+description   = "Prometeus node exporter metrics parser, for Nim"
 license       = "MIT"
 srcDir        = "src"
 
