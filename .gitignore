@@ -1,2 +1,3 @@
 src/nodeExporter
 src/nodeExporterMetricsParser
+tests/test1
